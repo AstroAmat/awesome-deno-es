@@ -1,40 +1,38 @@
-# Awesome Deno [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Deno en Español [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+> Lista curada en español sobre recursos y módulos de Deno
 
 [<img src="deno-logo.svg" align="right" width="100">](https://deno.land)
 
-Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+Deno es un entorno de ejecución simple, moderno y seguro para Javascript y
+Typescript que usa V8 y está construido con Rust.
 
-This list is a collection of the best Deno modules and resources.
+Esta lista es una colección de los mejores módulos y recursos para Deno.
 
-## Contents
-- [Docs](#docs)
-  - [Official Docs](#official-docs)
-  - [External Docs](#external-docs)
+## Contenido
+
+- [Documentación](#documentaci%c3%b3n)
+  - [Documentación Oficial](#documentaci%c3%b3n-oficial)
+  - [Documentación Externa](#documentaci%c3%b3n-externa)
   - [Online Playgrounds](#online-playgrounds)
-- [Modules](#modules)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Presentations](#presentations)
+- [Módulos](#m%c3%b3dulos)
+- [Herramientas](#herramientas)
+- [Artículos](#art%c3%adculos)
+- [Presentaciones](#presentaciones)
 - [Newsletters](#newsletters)
-- [Resources in Other Languages](#resources-in-other-languages)
-  - [Chinese](#chinese)
-  - [Hebrew](#hebrew)
-  - [Indonesian](#indonesian)
-  - [Japanese](#japanese)
-  - [Korean](#korean)
-  - [Russian](#russian)
-  - [Spanish](#spanish)
+- [Contribuye](#contribuye)
+- [Licencia](#licencia)
 
-## Docs
+## Documentación
 
-### Official Docs
+### Documentación Oficial
 
 - [Official Site](https://deno.land)
 - [Deno API TypeDoc](https://deno.land/typedoc/)
 - [Deno Manual](https://deno.land/manual)
 - [Deno Registry](https://deno.land/x/)
 
-### External Docs
+### Documentación Externa
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
@@ -44,10 +42,7 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Playground](https://deno-playground.now.sh)
   - [maman/deno-playground](https://github.com/maman/deno-playground)
 
-## Modules
-
-__NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
-Consider submitting to [the deno.land/x](https://github.com/denoland/deno_website2/blob/master/database.json) repository.
+## Módulos
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
@@ -128,7 +123,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
-## Tools
+## Herramientas
 
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
@@ -161,19 +156,12 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
 
-## Articles
+## Artículos
 
-- [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
-- [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
-- [Getting started with Deno](https://dev.to/wuz/getting-started-with-deno-e1m)
-- [What's Deno, and how is it different from Node.js?](https://dev.to/bnevilleoneill/what-s-deno-and-how-is-it-different-from-node-js-366g)
-- [Write a small API using Deno](https://dev.to/kryz/write-a-small-api-using-deno-1cl0)
-- [Deno on AWS Lambda with Architect or SAM](https://blog.begin.com/deno-runtime-support-for-architect-805fcbaa82c3)
-- [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
-- [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
-- [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
+- [Hello World- Deno 1.0](https://medium.com/@hectorulisesgonzalezmedel/hello-world-deno-1-0-5329b148259f)
+- [Hola Deno!. 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 
-## Presentations
+## Presentaciones
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
   - [Slides](https://tinyclouds.org/jsconf2018.pdf)
@@ -199,47 +187,12 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Deno Newsletter](https://deno.news)
 
-## Resources in Other Languages
+## Contribuye
 
-### Chinese
+¡Las contribuciones son bienvenidas! Le las [directrices de contribución](contributing.md) primero.
 
-- [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
-- [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
-- [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
-- [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
-- [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
-- [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
-- [Deno中文社区](https://denocn.org)
-- [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
+## Licencia
 
-### Hebrew
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-- [Deno intro in Hebrew (slides in English)](https://www.youtube.com/watch?v=9tJ_LkI6_qw)
-
-### Indonesian
-
-- [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
-
-### Japanese
-
-- [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
-- [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
-- [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
-- [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
-
-### Korean
-
-- [denoland.kr/](https://denoland.kr/)
-
-### Russian
-
-- [Telegram channel](https://t.me/denoland_ru)
-- [Telegram chat](https://t.me/denoland)
-
-### Spanish
-- [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
-
-### Uzbek
-
-- [Telegram Channel](https://t.me/denoland_uz)
-- [Telegram Group](https://t.me/chisel_deno)
+En medida de lo posible según la ley, Mauricio Chávez ha renunciado a todos los derechos de autor y derechos afines o relacionados a este trabajo.
