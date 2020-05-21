@@ -189,7 +189,7 @@ Esta lista es una colección de los mejores módulos y recursos para Deno.
 
 ## Contribuye
 
-¡Las contribuciones son bienvenidas! Le las [directrices de contribución](contributing.md) primero.
+¡Las contribuciones son bienvenidas! Primero lee las [directrices de contribución](contributing.md).
 
 ## Licencia
 
