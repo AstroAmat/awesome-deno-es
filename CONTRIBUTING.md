@@ -1,19 +1,18 @@
-# Contribution Guidelines
+# Directrices de Contribución
 
-Ensure your pull request adheres to the following guidelines:
+Asegúrate de que tu pull request se adhiera a las siguientes directrices:
 
-- If you submit a project that is similar to an existing project in the list, argue how it's different or better.
-- Suggested packages should be tested and documented.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) - Description.`
-- Additions should be ordered in the alphabetical order in the section.
-- Link to the GitHub repo.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Start the description with either a verb or a noun phrase.
-- Don't add `-s` suffix if the description starts with a verb.
-- Avoid `(for) Deno` in the description unless necessary. Stylize as `Deno` instead of `deno`.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and include a link to the package and why it should be included.
-- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+- Si subes un proyecto similar a un proyecto existente en la lista, argumenta como es diferente o mejor.
+- Los módulos sugeridos deben ser probados y documentados.
+- Utiliza el siguiente formato: `[módulo](enlace) - Descripción.`
+- Las adiciones deben ordenarse en orden alfabético en su respectiva sección.
+- Usa el enlace al repositorio de GitHub.
+- Mantén las descripciones cortas y simples, pero descriptivas.
+- Comienza la descripción con mayúscula y termina con un punto.
+- Comienza la descripción con un verbo o una frase nominal.
+- No agregue el sufijo `-s` si la descripción comienza con un verbo.
+- Evita `(para) Deno` en la descripción a menos que sea necesario. Estilizar como `Deno` en lugar de `deno`.
+- Revisa tu ortografía y gramática.
+- Asegúrate de que tu editor de texto esté configurado para eliminar los espacios en blanco finales.
+- El pull request debe tener un título útil e incluir un enlace al paquete y por qué debe incluirse.
+- Las nuevas categorías o mejoras en la categorización existente son bienvenidas, pero deben hacerse en un pull request por separado.
