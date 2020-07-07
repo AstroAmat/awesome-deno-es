@@ -18,6 +18,7 @@ Esta lista es una colección de los mejores módulos y recursos para Deno.
 - [Módulos](#m%c3%b3dulos)
 - [Herramientas](#herramientas)
 - [Artículos](#art%c3%adculos)
+- [Tutoriales](#tutoriales)
 - [Presentaciones](#presentaciones)
 - [Newsletters](#newsletters)
 - [Contribuye](#contribuye)
@@ -160,6 +161,11 @@ Esta lista es una colección de los mejores módulos y recursos para Deno.
 
 - [Hello World- Deno 1.0](https://medium.com/@hectorulisesgonzalezmedel/hello-world-deno-1-0-5329b148259f)
 - [Hola Deno!. 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
+
+## Tutoriales
+- [Deno REST API con Oak](https://www.youtube.com/watch?v=Sha9IJGuTCg)
+- [¿Qué es Deno 🦕? Primeros pasos](https://www.youtube.com/watch?v=DDOZs6BMG5I)
+- [CURSO RÁPIDO DE DENO](https://www.youtube.com/watch?v=smD6J1E_Hgo)
 
 ## Presentaciones
 
